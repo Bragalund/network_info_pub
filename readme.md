@@ -51,7 +51,7 @@ http://danger.rulez.sk/projects/bruteforceblocker/blist.php
 https://lists.blocklist.de/lists/all.txt  
 
 
-#### Level 4 - Ads  
+#### Level 4 - Ads and trackers   
 
 https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt  
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=;showintro=0  
