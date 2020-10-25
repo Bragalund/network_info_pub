@@ -7,7 +7,7 @@ For safe keeping, education and maybe someone needs it?
 
 
 ### What is it?
-Lists with ip-addresses/urls/domains that are 
+Lists with ip-addresses/urls/domains that you dont want to go to.   
 https://en.wikipedia.org/wiki/Domain_Name_System-based_Blackhole_List  
 
 
