@@ -22,6 +22,8 @@ https://supratim-sanyal.blogspot.com/2017/04/pfsense-pfblockerng-ultimate-list-o
 
 ### Lists  
 
+The structure is important. The different levels are sorted by criticality and makes it easier to either turn on/off blocklists if necessary. Maybe the blocklists are blocking too much in some scenarios. As an example: Some webpages needs trackers to function, but its not necessary to diable the malware/cybercrime-blocklists.  
+
 #### Level 1 - General  
 
 https://someonewhocares.org/hosts/hosts  
@@ -68,3 +70,6 @@ https://raw.githubusercontent.com/firehol/blocklist-ipsets/master/firehol_level4
 
 [BlocklistProject](https://blocklistproject.github.io/Lists/)  
 
+### Inspiration to how to structure the lists  
+
+https://supratim-sanyal.blogspot.com/2017/04/pfsense-pfblockerng-ultimate-list-of-ip.html  
